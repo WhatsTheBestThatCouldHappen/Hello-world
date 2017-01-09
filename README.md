@@ -1,6 +1,6 @@
 # Hello-world
 We need a new Facebook
-Not for me, not for you, but for Us.
+Not for me, not for you, but for us.
 
 It's no secret Facebook tracks its users and sells the information to politicians, corporations and governments. One-23.com won't do that. 
 
